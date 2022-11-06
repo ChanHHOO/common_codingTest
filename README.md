@@ -1,6 +1,6 @@
 # Coding Test - ChanHo Kim
 
-ainize 를 활용한 ai image generate와 재미를 결함한 짱짱한 Hey ! common ! 봇 !
+ainize 를 활용한 ai image generate와 재미를 결함한 짱짱한 봇 !
 
 ![logo](https://blog.kakaocdn.net/dn/bvqgy6/btrbR4QQEAh/BoL8V56Z3JmnOAmgvkpToK/img.png)
 
@@ -15,14 +15,9 @@ ainize 를 활용한 ai image generate와 재미를 결함한 짱짱한 Hey ! co
         <tr>
             <td>/water_please : 목 마를 때 물을 가져다 줍니다. (아주 이쁜 컵으로 담아 줍니다.)</td>
         </tr>
-        <tr>
-            make_image result : ![make_image](https://github.com/ChanHHOO/common_codingTest/tree/main/images/make_image_result.png)
-        </tr>
-        <tr>
-            resume result : ![make_image](https://github.com/ChanHHOO/common_codingTest/tree/main/images/resume_result.png)
-        </tr>
-                <tr>
-            water_please result : ![make_image](https://github.com/ChanHHOO/common_codingTest/tree/main/images/water_plz_result.png)
-        </tr>
     </tbody>
 </table>
+
+![make_image](https://github.com/ChanHHOO/common_codingTest/tree/main/images/make_image_result.png)
+![make_image](https://github.com/ChanHHOO/common_codingTest/tree/main/images/resume_result.png)
+![make_image](https://github.com/ChanHHOO/common_codingTest/tree/main/images/water_plz_result.png)
