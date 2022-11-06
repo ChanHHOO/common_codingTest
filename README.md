@@ -1,6 +1,6 @@
 # Coding Test - ChanHo Kim
 
-ainize 를 활용한 ai image generate와 재미를 결함한 짱짱한 봇 !
+ainize 를 활용한 ai image generate와 재미를 결함한 짱짱한 Hey ! common ! 봇 !
 
 ![logo](https://blog.kakaocdn.net/dn/bvqgy6/btrbR4QQEAh/BoL8V56Z3JmnOAmgvkpToK/img.png)
 
